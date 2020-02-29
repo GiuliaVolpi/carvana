@@ -1,0 +1,9 @@
+diff a/notebook/2_Clustering/GA.ipynb b/notebook/2_Clustering/GA.ipynb	(rejected hunks)
+@@ -60,7 +60,6 @@
+   },
+   {
+    "cell_type": "code",
+-   "execution_count": 16,
+    "execution_count": 6,
+    "metadata": {},
+    "outputs": [
