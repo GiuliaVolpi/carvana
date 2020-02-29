@@ -2,7 +2,7 @@
 Data Mining (DM) Project of the DM course at Department of Computer Science of University of Pisa.
 
 ## Abstract
-Carvana is a start-up business launched by a well-established American company. The goal is to change completely the way people buy, finance, and trade their used vehicles by replacing physical infrastructure with technology and top of the line scientific models. In this project, we will show our analysis based on the dataset published on kaggle.com for the Data Mining 2019/2020 Project. The aim is to build a model to advise future customers whether a purchase could be a good or bad buy.
+Carvana is a start-up business launched by a well-established American company. The goal is to change completely the way people buy, finance, and trade their used vehicles by replacing physical infrastructure with technology and top of the line scientific models. This project shows the analysis based on the dataset published on [kaggle.com](https://www.kaggle.com/c/data-mining-20192020-unipi) for the Data Mining 2019/2020 Project. The aim is to build a model to advise future customers whether a purchase could be a good or bad buy.
 
 ## The Project is divided in two part:
 
