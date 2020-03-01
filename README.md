@@ -34,9 +34,6 @@ An additional task for the project: compare results of classification by decisio
 
  - Aleksandra Maslennikova - msasha1996@gmail.com
 
-Project Link: [https://github.com/alessandrocuda/ISANet](https://github.com/alessandrocuda/ISANet)
-
-
 <!-- LICENSE -->
 ## License
 Copyright 2019 ©  <a href="https://alessandrocudazzo.it" target="_blank">Alessandro Cudazzo</a> - <a href="mailto:giuliavolpi25.93@gmail.com">Giulia Volpi</a> - <a href="mailto:flavia.achena@gmail.com">Flavia Achena</a> - <a href="mailto:msasha1996@gmail.com">Aleksandra Maslennikova</a>
